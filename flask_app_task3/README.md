@@ -1,5 +1,5 @@
 # HNG_TASK3
-An SMS notfication service
+<h2>An SMS Notification Service </h2>
 
 This app was built around Twilio API
 It is a micro-service that allows sending SMS's to phone numbers using a client app.
